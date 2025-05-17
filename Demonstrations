@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My IT Portfolio</title>
+</head>
+<body>
+  <h1>Welcome to My IT Portfolio</h1>
+
+  <h2>Categories</h2>
+  <ul>
+    <li><a href="#cloud">Cloud Projects</a></li>
+    <li><a href="#ad">Active Directory</a></li>
+    <li><a href="#cyber">Cybersecurity</a></li>
+    <li><a href="#automation">Microsoft Automation</a></li>
+    <li><a href="#misc">Miscellaneous</a></li>
+  </ul>
+
+  <h3 id="cloud">Cloud Projects</h3>
+  <p>Coming soon: AWS and Azure video walkthroughs.</p>
+
+  <h3 id="ad">Active Directory</h3>
+  <p>Coming soon: Domain setup and GPO configuration.</p>
+
+  <h3 id="cyber">Cybersecurity</h3>
+  <p>Coming soon: Vulnerability scans and analysis.</p>
+
+  <h3 id="automation">Microsoft Automation</h3>
+  <p>Coming soon: Power Automate workflows.</p>
+
+  <h3 id="misc">Miscellaneous</h3>
+  <p>Coming soon: Other useful IT projects.</p>
+</body>
+</html>
